@@ -14,7 +14,7 @@ const songs = ['naba', 'sad', 'saffat', 'morning'];
 
 
 // Keep track of Song
-let songIndex = 1;
+let songIndex = 3;
 
 loadSong(songs[songIndex]);
 
