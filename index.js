@@ -10,7 +10,7 @@ const title = document.getElementById('title');
 const cover = document.getElementById('music-cover');
 
 // Song Title
-const songs = ['naba', 'sad', 'saffat'];
+const songs = ['naba', 'sad', 'saffat', 'morning'];
 
 
 // Keep track of Song
